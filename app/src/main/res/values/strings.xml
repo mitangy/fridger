@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Falco</string>
+    <string name="add_produce">Add Item</string>
+    <string name="display_data">Data Displayed Here!</string>
+
+    <string name="produce_name">produce name</string>
+    <string name="num_items">amount:</string>
+    <string name="add_produce_title">Enter Produce Details</string>
+    <string name="num_produce">amount of produce</string>
+    <string name="unit">unit</string>
+
+    <string-array name="unit_list">
+        <item>pound(s)</item>
+        <item>kilogram(s)</item>
+        <item>item(s)</item>
+    </string-array>
+
+    <string-array name="num_list">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="title_activity_login">sign in</string>
+    <string name="prompt_email">email</string>
+    <string name="prompt_password">password</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="action_register">register</string>
+    <string name="action_sign_in">sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+
+    <string name="back"><u>back</u></string>
+
+    <string name="view_groceries">view groceries</string>
+    <string name="or">or</string>
+    <string name="fridger">FRIDGER</string>
+
+</resources>
